@@ -1,0 +1,1 @@
+{"hosting":{"headers":[{"headers":[{"key":"Cache-Control","value":"no-cache"}],"source":"**/*.@(js|css|html)"}],"ignore":["firebase.json","**/.*","**/*.md","js/firebase-config.local.js","test/**"],"public":"."}}

@@ -1,0 +1,6 @@
+# Local-only overrides — may contain an App Check debug token (a secret).
+js/firebase-config.local.js
+
+# OS / editor noise
+.DS_Store
+node_modules/
